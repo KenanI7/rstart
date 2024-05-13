@@ -14,6 +14,8 @@ const Dashboard = () => {
     setCurrentContent(content);
   };
 
+  
+
   // Calculate the dynamic width for the header based on the sidebar state
   const headerWidth = isSidebarCollapsed ? '100%' : 'calc(100% - 240px)';
 
