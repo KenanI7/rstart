@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+  color: #000000;
+  background-color: #ffffff;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+}
